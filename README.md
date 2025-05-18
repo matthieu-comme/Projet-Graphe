@@ -1,6 +1,4 @@
-Etudiants du binôme :
-PIAULT Mathis 22314182
-COMME Matthieu 21702476
+Etudiants du binôme : PIAULT Mathis et COMME Matthieu.
 
 Pour compiler (en se plaçant dans ProjetGraphe):
 javac -d bin src/Main.java src/controller/* src/model/* src/ui/components/* src/ui/panel/* src/ui/view/*
